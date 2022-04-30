@@ -1,4 +1,5 @@
 # Briscolone
+*Progetto realizzato durante l'ultimo anno di scuola superiore insieme a NizarNadif. Si tratta di un sistema per poter giocare a briscolone online connettendosi semplicemente allo stesso server.*/
 
 ## Caratteristiche progetto:
 - servizio di chat per scrivere durante la partita;
